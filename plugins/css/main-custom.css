@@ -59,6 +59,14 @@ img {
   border-radius: 0.5em;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 25px;
 }
+/*表格样式*/
+.markdown-section table {
+    width: 100%;
+    table-layout: fixed;          /* 🔑 关键：强制固定布局 */
+    display: table;               /* 确保是表格布局，不要用 block */
+    border-collapse: collapse;
+    margin: 1rem 0;
+}
 
 .loading {
   color: #999;

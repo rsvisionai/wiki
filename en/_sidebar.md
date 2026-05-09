@@ -1,18 +1,19 @@
-Technical Principle
+拆垛使用指南（English）
 
-- [1. Introduction](en/ToFBasicPrinciple/3DTecIntroduction.md)
+- [1. 设备连接与环境搭建](/cn/AI-Depalletizing/1.md)
 
-* [2. Taxonomy of Distance Measurement](en/ToFBasicPrinciple/3DTecClassification.md)
+- [2. 软件功能介绍](cn/AI-Depalletizing/2.md)
 
-- [3. Components of a ToF Camera](en/ToFBasicPrinciple/ToFComposition.md)
+- [3. 物品预识别](cn/AI-Depalletizing/3.md)
 
-* [4. Direct ToF vs Indirect ToF](en/ToFBasicPrinciple/ToFPrinciple.md)
+- [4. 手眼标定](cn/AI-Depalletizing/4.md)
 
-- [5. Different Technology Comparison](en/ToFBasicPrinciple/ToFFeatures.md)
+- [5. 效果验证与微调](cn/AI-Depalletizing/5.md)
 
-Product Introduction
+- [6. 机械臂通信](cn/AI-Depalletizing/6.md)
 
-- [1. NYX650/660](en/ProductIntroduction/NYX650,660.md)
+- [7. 图像采集与训练](cn/AI-Depalletizing/7.md)
 
-* [2. DS86/87](en/ProductIntroduction/DS86,87.md)
+- [8. 使用FAQ](cn/AI-Depalletizing/8.md)
+
 
